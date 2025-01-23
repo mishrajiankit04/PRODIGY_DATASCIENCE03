@@ -1,7 +1,1 @@
-# PRODIGY_DATASCIENCE03
-Successfully built a decision tree classifier for customer purchase prediction using the UCI Bank Marketing dataset! 
-Proud of the insights gained:
-- Implemented decision tree algorithms from scratch
-- Learned to balance model complexity and accuracy
-- Gained experience in handling demographic data
-- Improved feature selection techniques
+![Screenshot 2024-08-02 231407](https://github.com/user-attachments/assets/8b5e4b18-edc0-4023-8d37-a031f992d300)
